@@ -3,4 +3,4 @@
 
 <a href="https://codeclimate.com/github/IldarNazipov/frontend-project-44/maintainability"><img src="https://api.codeclimate.com/v1/badges/1ecb57d31583164877d4/maintainability" /></a>
 
-[Пример работы на asciinema](https://asciinema.org/a/14?t=25&speed=2&theme=solarized-dark)
+[Пример работы на asciinema](https://asciinema.org/a/E7Uv9dp8BSZoDhAfasECGlO3u)
