@@ -7,3 +7,5 @@
 [Пример игры "Проверка на чётность" на asciinema](https://asciinema.org/a/E7Uv9dp8BSZoDhAfasECGlO3u)
 
 [Пример игры "Калькулятор" на asciinema](https://asciinema.org/a/MDj5SoFyHak7266FTh3AyMWzU)
+
+[Пример игры "НОД" на asciinema](https://asciinema.org/a/QxqAgVwV9MTBvypD8YBrMxcvS)
