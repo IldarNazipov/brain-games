@@ -9,3 +9,5 @@
 [Пример игры "Калькулятор" на asciinema](https://asciinema.org/a/MDj5SoFyHak7266FTh3AyMWzU)
 
 [Пример игры "НОД" на asciinema](https://asciinema.org/a/QxqAgVwV9MTBvypD8YBrMxcvS)
+
+[Пример игры "Арифметическая прогрессия на asciinema](https://asciinema.org/a/4LwldsThgnBohtGvxp4AA8bQj)
