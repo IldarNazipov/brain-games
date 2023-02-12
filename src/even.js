@@ -22,11 +22,13 @@ const playBrainEven = () => {
       winCount += 1;
     } else {
       console.log(`'${userAnswer}' is wrong answer ;(. Correct answer was '${correctAnswer}'.`);
-      winCount = 0;
+      break;
     }
   } while (winCount < 3);
 
-  console.log(`Congratulations, ${userName}!`);
+  if (winCount === 3) {
+    console.log(`Congratulations, ${userName}!`);
+  }
 };
 
 export default playBrainEven;
