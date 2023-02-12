@@ -11,3 +11,5 @@
 [Пример игры "НОД" на asciinema](https://asciinema.org/a/QxqAgVwV9MTBvypD8YBrMxcvS)
 
 [Пример игры "Арифметическая прогрессия" на asciinema](https://asciinema.org/a/4LwldsThgnBohtGvxp4AA8bQj)
+
+[Пример игры "Простое ли число?"](https://asciinema.org/a/Lje5he9Xb00hzVK7h7lCuKZao)
