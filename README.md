@@ -12,4 +12,4 @@
 
 [Пример игры "Арифметическая прогрессия" на asciinema](https://asciinema.org/a/4LwldsThgnBohtGvxp4AA8bQj)
 
-[Пример игры "Простое ли число?"](https://asciinema.org/a/Lje5he9Xb00hzVK7h7lCuKZao)
+[Пример игры "Простое ли число?" на asciinema](https://asciinema.org/a/Lje5he9Xb00hzVK7h7lCuKZao)
