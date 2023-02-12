@@ -10,4 +10,4 @@
 
 [Пример игры "НОД" на asciinema](https://asciinema.org/a/QxqAgVwV9MTBvypD8YBrMxcvS)
 
-[Пример игры "Арифметическая прогрессия на asciinema](https://asciinema.org/a/4LwldsThgnBohtGvxp4AA8bQj)
+[Пример игры "Арифметическая прогрессия" на asciinema](https://asciinema.org/a/4LwldsThgnBohtGvxp4AA8bQj)
