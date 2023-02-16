@@ -33,9 +33,9 @@ const playBrainProgression = () => {
       result = array[hiddenElementIndex + 1] - progressionStep;
       return `${result}`;
     }
-      progressionStep = (array[hiddenElementIndex + 1] - array[hiddenElementIndex - 1]) / 2;
-      result = array[hiddenElementIndex + 1] - progressionStep;
-      return `${result}`;
+    progressionStep = (array[hiddenElementIndex + 1] - array[hiddenElementIndex - 1]) / 2;
+    result = array[hiddenElementIndex + 1] - progressionStep;
+    return `${result}`;
   };
   playGame('What number is missing in the progression?', getQuestionBrainProgression, getCorrectAnswerBrainProgression);
 };
