@@ -2,8 +2,8 @@ import playGame from '../index.js';
 
 const playBrainGcd = () => {
   const getQuestionBrainGcd = () => {
-    const randomleftNumber = Math.floor(Math.random() * 100);
-    const randomRightNumber = Math.floor(Math.random() * 100);
+    const randomleftNumber = Math.floor(Math.random() * 100) + 1;
+    const randomRightNumber = Math.floor(Math.random() * 100) + 1;
     return `${randomleftNumber} ${randomRightNumber}`;
   };
 
