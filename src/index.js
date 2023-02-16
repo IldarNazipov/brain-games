@@ -17,7 +17,7 @@ const playGame = (gameName, question, correctAnswer) => {
       winCount += 1;
     } else {
       console.log(`'${userAnswer}' is wrong answer ;(. Correct answer was '${currentCorrectAnswer}'.`);
-      console.log(`Let's try again, ${userName}`);
+      console.log(`Let's try again, ${userName}!`);
       return;
     }
   } while (winCount < 3);
